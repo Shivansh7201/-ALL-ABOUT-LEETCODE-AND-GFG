@@ -1,4 +1,4 @@
-"""1582. Special Positions in a Binary Matrix """
+//1582. Special Positions in a Binary Matrix 
 
 class Solution {
     public int numSpecial(int[][] mat) {
@@ -22,4 +22,4 @@ class Solution {
         return ans;      
             
     }
-} # array matrix solution 
+} //array matrix solution 
