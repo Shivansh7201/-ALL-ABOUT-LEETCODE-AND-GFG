@@ -9,13 +9,13 @@ Welcome to "All About LeetCode" – your one-stop repository for mastering codin
 
 ## Overview
 
-This repository is dedicated to providing comprehensive solutions and explanations for a wide range of LeetCode problems. Whether you're a beginner looking to enhance your coding skills or a seasoned developer preparing for technical interviews, you'll find a wealth of resources here to help you succeed.
+This repository provides comprehensive solutions and explanations for a wide range of LeetCode problems. Whether you're a beginner looking to enhance your coding skills or a seasoned developer preparing for technical interviews, you'll find a wealth of resources here to help you succeed.
 
 ## Features
 
 🌟 **Rich Collection of Problems:** Tackle LeetCode problems categorized by difficulty level, topic, and specific coding patterns.
 
-🚦 **Detailed Solutions:** Each problem comes with detailed solutions, code implementations in various languages, and explanations to help you understand the underlying concepts.
+🚦 **Detailed Solutions:** Each problem has detailed solutions, code implementations in various languages, and explanations to help you understand the underlying concepts.
 
 📚 **Educational Content:** In addition to solutions, find educational content, tips, and tricks to strengthen your problem-solving skills and improve your algorithmic thinking.
 
