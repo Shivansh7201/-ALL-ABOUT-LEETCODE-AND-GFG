@@ -19,7 +19,7 @@ This repository provides comprehensive solutions and explanations for a wide ran
 
 📚 **Educational Content:** In addition to solutions, find educational content, tips, and tricks to strengthen your problem-solving skills and improve your algorithmic thinking.
 
-🔍 **Search and Contribute:** Use the search functionality to quickly find problems or contribute by adding your own solutions. Your contributions are highly encouraged!
+🔍 **Search and Contribute:** Use the search functionality to quickly find problems or contribute by adding your solutions. Your contributions are highly encouraged!
 
 ## Contents
 
